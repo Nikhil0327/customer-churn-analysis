@@ -30,17 +30,6 @@ Total Records: **7,043 Customers**
 
 ---
 
-## Objectives
-
-- Perform data cleaning and preprocessing.
-- Identify customer churn patterns.
-- Analyze the impact of contract types on churn.
-- Analyze the relationship between monthly charges and churn.
-- Compare churn rates across internet service categories.
-- Generate business insights and recommendations.
-
----
-
 ## Tools & Technologies
 
 - Python
@@ -103,20 +92,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## Visualizations
-
-The project includes visualizations for:
-
-- Customer Churn Distribution
-- Churn by Contract Type
-- Monthly Charges vs Churn
-- Churn by Internet Service
-- Senior Citizen Churn Analysis
-
----
-
 ## Key Business Insights
-
 
 - Customers with month-to-month contracts are significantly more likely to churn compared to customers with long-term contracts.
 - Customers paying higher monthly charges tend to leave more frequently.
